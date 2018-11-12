@@ -1,0 +1,8 @@
+---
+applications:
+- name: go-time
+  memory: 64M
+  disk_quota: 64M
+  instances: 2
+  env:
+     GOPACKAGENAME: go-time

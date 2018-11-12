@@ -1,0 +1,7 @@
+---
+applications:
+- name: java-time
+  memory: 1G
+  disk_quota: 1G
+  instances: 1
+  path: C:\Users\Funky\workspace\java-time\target\demo-0.0.1-SNAPSHOT.jar
